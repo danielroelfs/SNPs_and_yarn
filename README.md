@@ -1,4 +1,4 @@
-# SNPs_and_yarn
+# SNPs 'n Yarn
 Generative art image combining a correlation plot and a Manhattan plot
 
 ## Description
